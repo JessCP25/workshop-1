@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/JessCP25/workshop-1',
+    baseUrl: 'https://JessCP25.github.io/workshop-1',
   },
 }

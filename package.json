@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/JessCP25/workshop-1",
+  "homepage": "https://JessCP25.github.io/workshop-1",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
