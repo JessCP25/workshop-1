@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/JessCP25/workshop-1",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
@@ -11,7 +12,9 @@
     "husky": "7",
     "prettier": "^2.0.5",
     "pretty-quick": "^3.1.0",
-    "snowpack": "^3.0.11",
-    "tailwindcss": "^2.0.2"
+    "request": "^2.88.2",
+    "snowpack": "^3.2.2",
+    "tailwindcss": "^2.0.2",
+    "tough-cookie": "^4.1.3"
   }
 }
